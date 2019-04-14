@@ -1,0 +1,11 @@
+C:\Users\manso\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\DelegatesAndEvents.deps.json
+C:\Users\manso\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\DelegatesAndEvents.runtimeconfig.json
+C:\Users\manso\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\DelegatesAndEvents.runtimeconfig.dev.json
+C:\Users\manso\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\DelegatesAndEvents.dll
+C:\Users\manso\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\DelegatesAndEvents.pdb
+C:\Users\manso\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.csprojAssemblyReference.cache
+C:\Users\manso\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\manso\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.AssemblyInfoInputs.cache
+C:\Users\manso\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.AssemblyInfo.cs
+C:\Users\manso\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.dll
+C:\Users\manso\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.pdb
